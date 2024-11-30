@@ -1,0 +1,43 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+
+    background-color: #f4f4f4;
+
+}
+
+table {
+
+    margin: 20px auto;
+
+    border-collapse: collapse;
+
+}
+
+table, th, td {
+
+    border: 1px solid #333;
+
+}
+
+th, td {
+
+    padding: 10px;
+
+}
+
+th {
+
+    background-color: #4CAF50; /* Cor verde para o cabeçalho */
+
+    color: white;
+
+}
+
+td {
+
+    background-color: #e0f7e0; /* Fundo verde claro para as células */
+
+}
